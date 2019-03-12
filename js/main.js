@@ -1,10 +1,9 @@
-
 //Define variables
 
 const form =    `<form>
                     <input type="text" name="search" id="search" placeholder="Search">
                 </form>`;
-const $links;                
+let $links ='';                
 
 //append input form to header
 
